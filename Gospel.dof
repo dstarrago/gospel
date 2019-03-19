@@ -1,0 +1,118 @@
+[Compiler]
+A=1
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=1
+K=0
+L=1
+M=0
+N=1
+O=0
+P=1
+Q=1
+R=1
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=2
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+
+[Directories]
+OutputDir=c:\temp
+UnitOutputDir=c:\temp
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=$(DELPHI)\Lib;C:\WINDOWS\Profiles\danel\Desktop\Editor;C:\WINDOWS\Desktop\Editor
+Packages=VCLDB40;VCLDBX40;QRPT40;VCLSMP40;TEEUI40;TEEDB40;TEE40;vcljpg40;tlib40;VCLIDE40;direct40;proide40;px_01;AdrPack;Vclx40;Vcl40;stride40;Tools
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+
+[Parameters]
+RunParams=
+HostApplication=
+
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+$(DELPHI)\Bin\direct40.bpl=Delphi Direct module
+$(DELPHI)\BIN\TLIB40.BPL=Borland Type Library Engine
+$(DELPHI)\BIN\VCLIDE40.BPL=Integrated Development Environment Specific Components
+$(DELPHI)\Bin\stride40.bpl=String Resource Editor IDE Package
+$(DELPHI)\Bin\proide40.bpl=Borland Core IDE Package
+$(DELPHI)\Bin\dphmts40.bpl=Borland Delphi Core MTS IDE Package
+$(DELPHI)\BIN\MTSIDE40.BPL=Borland Core MTS IDE Package
+$(DELPHI)\Bin\dphcrb40.bpl=Borland Delphi Core IDE CORBA Package
+$(DELPHI)\BIN\CRBIDE40.BPL=Borland Core IDE CORBA Package
+$(DELPHI)\BIN\DBX40.BPL=(untitled)
+C:\Work\Puig\Dacs\Comp\Net.bpl=(untitled)
+$(DELPHI)\DelphiX\Source\DelphiX.bpl=DelphiX - DirectX Components
+
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[HistoryLists\hlSearchPath]
+Count=4
+Item0=$(DELPHI)\Lib;C:\WINDOWS\Profiles\danel\Desktop\Editor;C:\WINDOWS\Desktop\Editor
+Item1=$(DELPHI)\Lib;C:\WINDOWS\Profiles\danel\Desktop\Editor
+Item2=$(DELPHI)\Lib;C:\WINNT\Profiles\danel\Desktop\Editor
+Item3=$(DELPHI)\Lib
+
+[HistoryLists\hlUnitOutputDirectory]
+Count=1
+Item0=c:\temp
+
+[HistoryLists\hlOutputDirectorry]
+Count=3
+Item0=c:\temp
+Item1=c:\temp; c:gatotuerto
+Item2=c:\temp; c:
